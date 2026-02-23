@@ -46,6 +46,7 @@
 
 - chmod 777 – read, write, execute for all
 - chmod 755 – rwx for owner, rx for group and world
+- chmod 600 - Private files
   
 ##SSH:
 
